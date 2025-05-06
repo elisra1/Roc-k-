@@ -1,4 +1,4 @@
-WeatherIDObsIDStationIDTemperatureHumidityDew_PointWind_DirectionWind_SpeedWind_GustPressurePrecipConditionSunriseSunset,Daylight_Hours
+WeatherID,ObsID,StationID,Temperature,Humidity,Dew_Point,Wind_Direction,Wind_Speed,Wind_Gust,Pressure,PrecipCondition,SunriseSunset,Daylight_Hours
 1,1,,154,45,33,VAR,7,0,29.54,0.0,Fair,7:07:0019:35:0012:28:00
 2,2,152,47,32,NNW,3,0,29.56,0.0,Fair,7:07:0019:35:0012:28:00
 3,3,151,48,32,CALM,0,0,29.57,0.0,Fair,7:07:0019:35:0012:28:00
